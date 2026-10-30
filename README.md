@@ -11,6 +11,7 @@ Exploratory Data Analysis of Google Play Store applications using Python to exam
 ## Dataset
 
 - **Source:** [Google Play Store Apps - Kaggle](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+- **Dataset Link:**  https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore.csv
 - **Size:** 10,841 records and 13 columns in the original dataset
 - **Key Features:** Category, Rating, Reviews, Installs, Type, Price, and Content Rating
 
